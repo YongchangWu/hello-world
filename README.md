@@ -1,2 +1,3 @@
 # hello-world
-just to test
+
+The reason I try to use GITHUB is to find a more comfortable way to code.
